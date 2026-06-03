@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Georgia Institute of Technology</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Georgia Institute of Technology</a>. Geophysical Glaciology
 
 profile:
   align: right
